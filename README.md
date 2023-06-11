@@ -58,6 +58,19 @@ You can install the dependencies using `pip` or any package manager of your choi
 pip install pandas nltk scikit-learn vaderSentiment
 ```
 
+## Results of Decision Tree Classifier
+![image](https://github.com/ParthKalkar/sentiment-analysis/assets/50231750/7a575f07-53bf-48d9-afe5-3538610401eb)
+
+## Results of Random Forest Classifier
+![image](https://github.com/ParthKalkar/sentiment-analysis/assets/50231750/8a68fb20-09ed-4fab-bcb0-13c8906df531)
+
+## Results of KNN
+![image](https://github.com/ParthKalkar/sentiment-analysis/assets/50231750/3395589c-06f9-4fec-abaf-13276d2d9f73)
+
+## Results of SVM
+![image](https://github.com/ParthKalkar/sentiment-analysis/assets/50231750/bdb95826-7220-451c-b934-13aa8bbafadc)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
